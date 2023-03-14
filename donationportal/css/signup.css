@@ -1,0 +1,18 @@
+h1{}
+body{}
+.signup {
+	padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 29px 2px 29px 2px;
+    border-color: white;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-right-width: 5px;
+    border-left-width: 5px;
+    background-color: #e4114b;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: black;
+}
